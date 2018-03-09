@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201803071550
+! Version: 201803091610
 ! Title: Danis Exceptions
 @@||aena-aeropuertos.es/$document
 @@||aena.es/$document
@@ -77,6 +77,7 @@
 @@||madewithcode.com/$document
 @@||masteroverwatch.com/$document
 @@||microsoft.com/$document
+@@||midasplayer.com/$document
 @@||miscosaspreciosas.com/$document
 @@||mit.edu/$document
 @@||mixer.com/$document
