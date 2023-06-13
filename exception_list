@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201803121600
+! Version: 202206131500
 ! Title: Danis Exceptions
 @@||aena-aeropuertos.es/$document
 @@||aena.es/$document
@@ -9,19 +9,12 @@
 @@||amazon.es/$document
 @@||appluscorp.com/$document
 @@||aptekamedea.bg/$document
-@@||augur.net/$document
 @@||battle.net/$document
 @@||beam.pro/$document
 @@||beneficioclub.es/$document
-@@||bitfinex.com/$document
-@@||bitflyer.jp/$document
-@@||bittrex.com/$document
 @@||blizzard.com/$document
 @@||blizzcon.com/$document
 @@||blogger.com/$document
-@@||boulter.com/$document
-@@||btc-e.com/$document
-@@||btc-e.nz/$document
 @@||bulbank.bg/$document
 @@||caixabank.es/$document
 @@||cloudharmony.com/$document
@@ -31,10 +24,7 @@
 @@||discordapp.com/$document
 @@||disney.co.uk/$document
 @@||dom.bg/$document
-@@||dominospizza.es/$document
 @@||dreamhack.tv/$document
-@@||dvkostov.ddns.net:10240/$document
-@@||dvkostov.ddns.net:11240/$document
 @@||dx.com/$document
 @@||ebay.com/$document
 @@||ebay.es/$document
@@ -90,7 +80,6 @@
 @@||nra.bg/$document
 @@||nvidia.com/$document
 @@||omnicmeta.com/$document
-@@||opsview.com/$document
 @@||orthodontic.es/$document
 @@||overbuff.com/$document
 @@||overwatchleague.com/$document
@@ -120,7 +109,6 @@
 @@||thecrypto.pub/$document
 @@||ticketmaster.es/$document
 @@||toywiz.com/$document
-@@||tron.network/$document
 @@||trovit.es/$document
 @@||ttvnw.net/$document
 @@||twitch.tv/$document
